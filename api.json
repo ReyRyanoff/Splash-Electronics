@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Intel core i7-14700KF",
+    "price": 319.38,
+    "image": "./images/1.jpg",
+    "description": "12th Gen Intel Core i9 processor with 16 cores and 24 threads.",
+    "category": "Processor"
+  },
+  {
+    "id": 2,
+    "name": "AMD Ryzen 7 7000",
+    "price": 279.97,
+    "image": "./images/2.jpg",
+    "description": "12-core, 24-thread unlocked desktop processor.",
+    "category": "Processor"
+  },
+  {
+    "id": 3,
+    "name": "NVIDIA GeForce RTX 3060",
+    "price": 399.7,
+    "image": "./images/3.jpg",
+    "description": "High-performance graphics card for gaming and rendering.",
+    "category": "Graphics Card"
+  },
+  {
+    "id": 4,
+    "name": "AMD Radeon RX 6800 XT",
+    "price": 520.24,
+    "image": "./images/4.jpg",
+    "description": "Powerful graphics card for gaming and creative workloads.",
+    "category": "Graphics Card"
+  },
+  {
+    "id": 5,
+    "name": "Corsair Vengeance RGB Pro 32GB",
+    "price": 94.99,
+    "image": "./images/5.jpg",
+    "description": "32GB DDR4 memory with RGB lighting.",
+    "category": "Memory"
+  },
+  {
+    "id": 6,
+    "name": "Kingston Fury RGB 16GB",
+    "price": 55.99,
+    "image": "./images/6.jpg",
+    "description": "16GB DDR4 memory with customizable RGB lighting.",
+    "category": "Memory"
+  },
+  {
+    "id": 7,
+    "name": "Samsung 970 EVO Plus 1TB",
+    "price": 100.99,
+    "image": "./images/7.jpg",
+    "description": "1TB NVMe SSD with fast read and write speeds.",
+    "category": "Storage"
+  },
+  {
+    "id": 8,
+    "name": "Corsair 750W 80+ Gold",
+    "price": 114.99,
+    "image": "./images/8.jpg",
+    "description": "750W power supply with 80+ Gold efficiency rating.",
+    "category": "Power Supply Unit"
+  },
+  {
+    "id": 9,
+    "name": "GIGABYTE B760 AORUS ELITE AX",
+    "price": 199.99,
+    "image": "./images/9.jpg",
+    "description": "High-end motherboard for Intel 12th Gen processors.",
+    "category": "Motherboard"
+  },
+  {
+    "id": 10,
+    "name": "MSI MPG B650 Gaming Edge WiFi",
+    "price": 169.82,
+    "image": "./images/10.jpg",
+    "description": "Gaming motherboard for AMD Ryzen processors with built-in Wifi.",
+    "category": "Motherboard"
+  },
+  {
+    "id": 11,
+    "name": "AJAZZ AK820",
+    "price": 48.99,
+    "image": "./images/11.jpg",
+    "description": "Mechanical keyboard with customizable RGB lighting and ergonomic design.",
+    "category": "Mechanical Keyboard"
+  },
+  {
+    "id": 12,
+    "name": "Basilisk V3 X HyperSpeed Customizable Wireless Gaming Mouse",
+    "price": 54.0,
+    "image": "./images/12.jpg",
+    "description": "Wireless gaming mouse with customizable buttons and RGB lighting.",
+    "category": "Gaming Mouse"
+  }
+]
